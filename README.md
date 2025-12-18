@@ -59,5 +59,4 @@ Initial version: 2023-07-31
 Maintained: 2025-06-20
 
 ---
-
-This repository is intended for orbital dynamics research and educational use. Contributions welcome!
+별로 좋은 코드는 아니네. 한번 손 보던가 지워야할듯 
